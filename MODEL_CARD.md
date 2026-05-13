@@ -4,7 +4,7 @@
 
 **Rice Contamination Classifier v1.0**  
 Archivo: `B83417_Jacob_Gonzalez.joblib`  
-Autor: Jacob González Gonga — B83417  
+Autor: Jacob González Gámez — B83417  
 Fecha: Mayo 2026
 
 ---
