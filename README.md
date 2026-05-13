@@ -3,7 +3,7 @@
 Clasificador de imágenes para detectar granos de arroz (contaminación positiva) en una
 superficie blanca, usando aprendizaje automático clásico.
 
-**Autor:** Jacob González Gonga — B83417  
+**Autor:** Jacob González Gámez — B83417  
 **Curso:** IE0435 Inteligencia Artificial — I Semestre 2026  
 **Universidad de Costa Rica**
 
